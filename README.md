@@ -7,6 +7,6 @@ registro de cliente y control de ventas
 em este proyecto reforzando 
 
 Reactjs, apolloClient, apolloserver graphQl , jwt, formulario de validacion con formik y yup 
-
+Gestion de estados con useReducer
 y tailwind.csss, y mongosse db 
 
